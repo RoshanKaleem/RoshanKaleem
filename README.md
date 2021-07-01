@@ -3,7 +3,6 @@
 
 **Welcome to my profile! I'm a Computer Science Student, I love to Code 😄, and have my major interests in Deep Learning**.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a deep learning project will disclose soon (😄)
 - 🌱 I’m currently learning deep learning and trying to master my react skills.
